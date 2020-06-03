@@ -13,7 +13,7 @@ public class ReduceLoopingCountStrategy implements PrimeCalculation {
     public long sum(int maxVal) {
 
         if (maxVal < 2) {
-            throw new RuntimeException(" Should be input the valve greater than 1 !");
+            throw new RuntimeException(" Should be input the value greater than 1 !");
         }
 
         //tag of prime
