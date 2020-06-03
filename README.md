@@ -1,15 +1,17 @@
 # prime
 
-How to package?
+The sum of all prime numbers 
 
-  mvn package
+**How to package?**
 
-How to execute?
+ ` mvn package`
 
-on linux 
+**How to execute?**
 
-  sh run.sh
+--on linux 
 
-on window
+ ` sh run.sh`
 
-  run.bat
+--on window
+
+  `run.bat`
